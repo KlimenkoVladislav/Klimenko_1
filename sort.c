@@ -17,3 +17,5 @@ void bubble_sort(int size, int arr[size]) {
     // Сортируем по возрастанию
     bubble_sort(N, array);
 // ...
+
+//добавил какой-то комментарий
