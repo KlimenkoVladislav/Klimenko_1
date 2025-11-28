@@ -1,0 +1,3 @@
+[submodule "laba9/submodule"]
+	path = laba9/submodule
+	url = https://github.com/KlimenkoVladislav/Klimenko_1
