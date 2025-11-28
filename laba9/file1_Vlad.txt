@@ -1,0 +1,2 @@
+git submodule add https://github.com/KlimenkoVladislav/Klimenko_1 https://github.com/KlimenkoVladislav/Klimenko_1/tree/main/laba9
+git submodule update --remote https://github.com/KlimenkoVladislav/Klimenko_1/tree/main/laba9    //извлекает последние коммиты из репозиториев подмодулей
